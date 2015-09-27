@@ -2,32 +2,32 @@
 
 ## Creational Patterns
 
-* Abstract Factory
+* [Singleton](creational/singleton)
 
-* Builder
+* [Factory Method](creational/factory/factory)
 
-* Factory Method
+* [Abstract Factory](creational/factory/abstract-factory)
 
-* Prototype
+* [Builder](creational/builder)
 
-* Singleton
+* [Prototype](creational/prototype)
 
 
 ## Structural Patterns
 
-* Adapter
+* [Adapter](structural/adapter)
 
-* Bridge
+* [Proxy](structural/proxy)
 
-* Composite
+* [Bridge](structural/bridge)
 
-* Decorator
+* [Composite](structural/composite)
 
-* Facade
+* [Decorator](structural/decorator)
 
-* Flyweight
+* [Facade](structural/facade)
 
-* Proxy
+* [Flyweight](structural/flyweight)
 
 
 ## Behavioral Patterns
@@ -58,5 +58,6 @@
 ## Reference
 * [Head First Design Patterns](http://www.headfirstlabs.com/books/hfdp)
 * [Design Patterns: Elements of Reusable Object-Oriented Software(GoF)](http://c2.com/cgi/wiki?DesignPatternsBook)
-* [Java-design-patterns by iluwater](https://github.com/iluwater/java-design-patterns)
+* [Java-design-patterns by iluwater](https://github.com/iluwatar/java-design-patterns)
 * [Design Patterns - SourceMaking](https://sourcemaking.com/design_patterns)
+* [Design Patterns in the JDK](http://www.javacodegeeks.com/2011/03/design-patterns-in-jdk.html)
